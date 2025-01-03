@@ -1,0 +1,28 @@
+div.container {
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+div.child-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+p.title {
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+p.num {
+    margin-right: 15px;
+    background-color: dodgerblue;
+    color: white;
+    width: 30px;
+    text-align: center;
+    border-radius: 15px;
+    padding: 3px;
+    font-weight: bold;
+    cursor: pointer;
+}
