@@ -8,7 +8,8 @@ A simple and responsive layout built using HTML and CSS to showcase the power of
 - Styled with **CSS** for a modern look.  
 
 ## 📂 Project Structure
-├── index.html # Main HTML file ├── style.css # CSS for styling
+├── index.html  # Main HTML file
+├── style.css   # CSS for styling
 
 ## 🌟 Preview
 The layout includes:  
